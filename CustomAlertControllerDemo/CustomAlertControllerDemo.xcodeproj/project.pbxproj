@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5A02C0221D644ED500E5BBFD /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A02C0211D644ED500E5BBFD /* 3.png */; };
 		5A517B8F1D2B891E0058F30D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A517B8E1D2B891E0058F30D /* main.m */; };
 		5A517B921D2B891E0058F30D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A517B911D2B891E0058F30D /* AppDelegate.m */; };
 		5A517B951D2B891E0058F30D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A517B941D2B891E0058F30D /* ViewController.m */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5A02C0211D644ED500E5BBFD /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
 		5A517B8A1D2B891E0058F30D /* CustomAlertControllerDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomAlertControllerDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A517B8E1D2B891E0058F30D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5A517B901D2B891E0058F30D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				5A517B901D2B891E0058F30D /* AppDelegate.h */,
+				5A02C0211D644ED500E5BBFD /* 3.png */,
 				5A517B911D2B891E0058F30D /* AppDelegate.m */,
 				5A517B931D2B891E0058F30D /* ViewController.h */,
 				5A517B941D2B891E0058F30D /* ViewController.m */,
@@ -246,6 +249,7 @@
 				5A517B9D1D2B891E0058F30D /* LaunchScreen.storyboard in Resources */,
 				5A517B9A1D2B891E0058F30D /* Assets.xcassets in Resources */,
 				5A517B981D2B891E0058F30D /* Main.storyboard in Resources */,
+				5A02C0221D644ED500E5BBFD /* 3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -496,6 +500,7 @@
 				5A517BB91D2B891E0058F30D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5A517BBA1D2B891E0058F30D /* Build configuration list for PBXNativeTarget "CustomAlertControllerDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +509,7 @@
 				5A517BBC1D2B891E0058F30D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5A517BBD1D2B891E0058F30D /* Build configuration list for PBXNativeTarget "CustomAlertControllerDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +518,7 @@
 				5A517BBF1D2B891E0058F30D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
