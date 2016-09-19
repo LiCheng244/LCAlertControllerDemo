@@ -55,18 +55,12 @@
     // 设置按钮的title的对齐方式
     [cancelAction setValue:[NSNumber numberWithInteger:NSTextAlignmentLeft] forKey:@"titleTextAlignment"];
     
-    
     UIAlertAction *okAction = [UIAlertAction actionWithTitle:@"确认" style:UIAlertActionStyleDefault handler:nil];
-    
     
     [alert addAction:okAction];
     [alert addAction:cancelAction];
     
-    
-    
     [self presentViewController:alert animated:YES completion:nil];
-    
-
 }
 
 @end
