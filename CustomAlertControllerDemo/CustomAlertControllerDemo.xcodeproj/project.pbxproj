@@ -210,6 +210,7 @@
 				TargetAttributes = {
 					5A517B891D2B891E0058F30D = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 756Z777W2K;
 					};
 					5A517BA21D2B891E0058F30D = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -417,8 +418,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 756Z777W2K;
 				INFOPLIST_FILE = CustomAlertControllerDemo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Li-Cheng.CustomAlertControllerDemo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -429,8 +431,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 756Z777W2K;
 				INFOPLIST_FILE = CustomAlertControllerDemo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Li-Cheng.CustomAlertControllerDemo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
